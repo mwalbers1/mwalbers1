@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋, I'm Michael
-<br/>
+
 <h2>💻 About Me </h2>
 
 - 🔭 Experienced data professional 
