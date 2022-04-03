@@ -16,16 +16,21 @@ Here are some ideas to get you started:
 
 <h2>💻 About Me </h2>
 
-- 🔭 Experienced data professional 
-- 🤩 &nbsp; I enjoy exploring new ideas particularly in data analytics technologies
+- 📄 &nbsp; Experienced data professional
+- 🤩 &nbsp; Enjoys exploring new ideas particularly in data analytics technologies
 - 🎓 &nbsp; Graduated Data Analytics Boot Camp at UC Berkeley Extension
 
 <h2>🛠 Tech Stack</h2>
 
-- 🌐 &nbsp;**Languages:** Python | Pandas | R | SQL | C# 
-- 🛢 &nbsp;**Database:** SQL Server | MySQL | PostgreSQL | MongoDB 
-- 🚓 &nbsp;**Platforms:** Docker 
+- 🌐 &nbsp;**Languages:** Python | R | JavaScript | C# | SQL
+
+- 📒 &nbsp;**Libraries:** Pandas | NumPy | SciPy | Matplotlib | Seaborn | Plotly | Flask | Git
+
+- 🛢 &nbsp;**Database:** Microsoft SQL Server | Microsoft SSIS | AWS Redshift | SQLAlchemy | PostgreSQL
+
 - 🔧 &nbsp;**Analytical Tools:** Excel, VBA, Tableau
+
+- ☁ &nbsp;**Cloud Technologies:** Apache Airflow | Apache Spark | Amazon Web Services (AWS)
 
 <h1>Projects</h1>
 
