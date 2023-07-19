@@ -44,20 +44,16 @@ Binary classification of Near-Earth Objects (asteroids) using NASA data. Technol
 <br/><br/>
 [Data Engineering project for COVID-19 data](https://github.com/mwalbers1/DEND-Capstone-Project)<br/>
 Create data pipelines to load 1M+ records of COVID-19/demographics data to AWS Redshift data
-warehouse. Technologies include Python, Apache Airflow, AWS Redshift
+warehouse. Technologies include Python, Apache Airflow, AWS Redshift.
 
 
 **2019**
 <br/><br/>
 [Communicate Data Findings Project](https://github.com/mwalbers1/Data-Analyst-Projects/tree/main/Communicate%20Data%20project)<br/>
 Data wrangling and Data visualizations for PISA (Program International Assessment) data.
-Technologies include Python, Jupyter Notebooks, Pandas, Seaborn, Matplotlib, SQLAlchemy 
+Technologies include Python, Jupyter Notebooks, Pandas, Seaborn, Matplotlib, SQLAlchemy.
 
-<br/>
-
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwalbers1&show_icons=true)](https://github.com/mwalbers1)
-
-<h3> 🤝 Connect with Me </h3>
+<h3>Connect with Me</h3>
 
 <a href="https://www.linkedin.com/in/michaelwalbers/"><img align="left" alt="Michael's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
